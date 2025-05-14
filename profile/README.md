@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/aitomyze/.github/main/profile/banner.png" alt="Banner Aitomyze" width="100%">
+</p>
+
 # Aitomyze ⚡
 
 Automação plug & play para empreendedores modernos.  
