@@ -37,7 +37,7 @@ Nosso ecossistema é feito para **vendedores, dropshippers, influencers** e pequ
 ## 🌐 Links úteis
 
 - 🔗 Site oficial: [aitomyze.com](https://aitomyze.com)
-- 🧠 Conheça o ZapTurbo: [zapturbo repo](https://aitomyze.com/zapturbo)
+- 🧠 Conheça o ZapTurbo: [zapturbo](https://aitomyze.com/zapturbo)
 - 📧 Suporte premium: contato@aitomyze.com
 
 ---
